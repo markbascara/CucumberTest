@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/Cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/Cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="lib/Cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="lib/Cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="lib/Cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/Cucumber/cucumber-reporting-3.17.1.jar"/>
+	<classpathentry kind="lib" path="lib/Cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="lib/Cucumber/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/Cucumber/mockito-all-1.9.1-20110911.jar"/>
+	<classpathentry kind="lib" path="lib/Junit/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium/client-combined-3.9.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium/client-combined-3.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium/libs/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium/libs/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium/libs/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/Selenium/libs/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/eclipse-workspace/CucumberTest/lib/Junit/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/Cucumber Jar/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/Cucumber Jar/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/Cucumber Jar/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/Cucumber Jar/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/Cucumber Jar/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/Cucumber Jar/cucumber-reporting-3.17.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/Cucumber Jar/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/Cucumber Jar/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/Cucumber Jar/mockito-all-1.9.1-20110911.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/selenium-java-3.9.1/client-combined-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/selenium-java-3.9.1/client-combined-3.9.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/selenium-java-3.9.1/libs/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/selenium-java-3.9.1/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/selenium-java-3.9.1/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/selenium-java-3.9.1/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/selenium-java-3.9.1/libs/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/selenium-java-3.9.1/libs/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/selenium-java-3.9.1/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/selenium-java-3.9.1/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/selenium-java-3.9.1/libs/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/selenium-java-3.9.1/libs/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/JUnit/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MarkBascara/Desktop/Selenium/JUnit/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
